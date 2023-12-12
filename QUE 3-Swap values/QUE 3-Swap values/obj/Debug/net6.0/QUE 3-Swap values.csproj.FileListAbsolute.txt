@@ -1,0 +1,15 @@
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 3-Swap values\QUE 3-Swap values\bin\Debug\net6.0\QUE 3-Swap values.exe
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 3-Swap values\QUE 3-Swap values\bin\Debug\net6.0\QUE 3-Swap values.deps.json
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 3-Swap values\QUE 3-Swap values\bin\Debug\net6.0\QUE 3-Swap values.runtimeconfig.json
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 3-Swap values\QUE 3-Swap values\bin\Debug\net6.0\QUE 3-Swap values.dll
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 3-Swap values\QUE 3-Swap values\bin\Debug\net6.0\QUE 3-Swap values.pdb
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 3-Swap values\QUE 3-Swap values\obj\Debug\net6.0\QUE 3-Swap values.csproj.AssemblyReference.cache
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 3-Swap values\QUE 3-Swap values\obj\Debug\net6.0\QUE 3-Swap values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 3-Swap values\QUE 3-Swap values\obj\Debug\net6.0\QUE 3-Swap values.AssemblyInfoInputs.cache
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 3-Swap values\QUE 3-Swap values\obj\Debug\net6.0\QUE 3-Swap values.AssemblyInfo.cs
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 3-Swap values\QUE 3-Swap values\obj\Debug\net6.0\QUE 3-Swap values.csproj.CoreCompileInputs.cache
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 3-Swap values\QUE 3-Swap values\obj\Debug\net6.0\QUE 3-Swap values.dll
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 3-Swap values\QUE 3-Swap values\obj\Debug\net6.0\refint\QUE 3-Swap values.dll
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 3-Swap values\QUE 3-Swap values\obj\Debug\net6.0\QUE 3-Swap values.pdb
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 3-Swap values\QUE 3-Swap values\obj\Debug\net6.0\QUE 3-Swap values.genruntimeconfig.cache
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 3-Swap values\QUE 3-Swap values\obj\Debug\net6.0\ref\QUE 3-Swap values.dll

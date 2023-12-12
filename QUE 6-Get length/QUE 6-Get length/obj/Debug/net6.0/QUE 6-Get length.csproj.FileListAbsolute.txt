@@ -1,0 +1,15 @@
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 6-Get length\QUE 6-Get length\bin\Debug\net6.0\QUE 6-Get length.exe
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 6-Get length\QUE 6-Get length\bin\Debug\net6.0\QUE 6-Get length.deps.json
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 6-Get length\QUE 6-Get length\bin\Debug\net6.0\QUE 6-Get length.runtimeconfig.json
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 6-Get length\QUE 6-Get length\bin\Debug\net6.0\QUE 6-Get length.dll
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 6-Get length\QUE 6-Get length\bin\Debug\net6.0\QUE 6-Get length.pdb
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 6-Get length\QUE 6-Get length\obj\Debug\net6.0\QUE 6-Get length.csproj.AssemblyReference.cache
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 6-Get length\QUE 6-Get length\obj\Debug\net6.0\QUE 6-Get length.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 6-Get length\QUE 6-Get length\obj\Debug\net6.0\QUE 6-Get length.AssemblyInfoInputs.cache
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 6-Get length\QUE 6-Get length\obj\Debug\net6.0\QUE 6-Get length.AssemblyInfo.cs
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 6-Get length\QUE 6-Get length\obj\Debug\net6.0\QUE 6-Get length.csproj.CoreCompileInputs.cache
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 6-Get length\QUE 6-Get length\obj\Debug\net6.0\QUE 6-Get length.dll
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 6-Get length\QUE 6-Get length\obj\Debug\net6.0\refint\QUE 6-Get length.dll
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 6-Get length\QUE 6-Get length\obj\Debug\net6.0\QUE 6-Get length.pdb
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 6-Get length\QUE 6-Get length\obj\Debug\net6.0\QUE 6-Get length.genruntimeconfig.cache
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 6-Get length\QUE 6-Get length\obj\Debug\net6.0\ref\QUE 6-Get length.dll

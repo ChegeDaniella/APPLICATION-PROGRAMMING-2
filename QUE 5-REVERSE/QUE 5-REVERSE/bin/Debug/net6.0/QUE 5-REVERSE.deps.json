@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "QUE 5-REVERSE/1.0.0": {
+        "runtime": {
+          "QUE 5-REVERSE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QUE 5-REVERSE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

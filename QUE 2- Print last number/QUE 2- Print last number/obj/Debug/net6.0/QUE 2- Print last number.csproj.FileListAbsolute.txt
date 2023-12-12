@@ -1,0 +1,15 @@
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 2- Print last number\QUE 2- Print last number\bin\Debug\net6.0\QUE 2- Print last number.exe
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 2- Print last number\QUE 2- Print last number\bin\Debug\net6.0\QUE 2- Print last number.deps.json
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 2- Print last number\QUE 2- Print last number\bin\Debug\net6.0\QUE 2- Print last number.runtimeconfig.json
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 2- Print last number\QUE 2- Print last number\bin\Debug\net6.0\QUE 2- Print last number.dll
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 2- Print last number\QUE 2- Print last number\bin\Debug\net6.0\QUE 2- Print last number.pdb
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 2- Print last number\QUE 2- Print last number\obj\Debug\net6.0\QUE 2- Print last number.csproj.AssemblyReference.cache
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 2- Print last number\QUE 2- Print last number\obj\Debug\net6.0\QUE 2- Print last number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 2- Print last number\QUE 2- Print last number\obj\Debug\net6.0\QUE 2- Print last number.AssemblyInfoInputs.cache
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 2- Print last number\QUE 2- Print last number\obj\Debug\net6.0\QUE 2- Print last number.AssemblyInfo.cs
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 2- Print last number\QUE 2- Print last number\obj\Debug\net6.0\QUE 2- Print last number.csproj.CoreCompileInputs.cache
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 2- Print last number\QUE 2- Print last number\obj\Debug\net6.0\QUE 2- Print last number.dll
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 2- Print last number\QUE 2- Print last number\obj\Debug\net6.0\refint\QUE 2- Print last number.dll
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 2- Print last number\QUE 2- Print last number\obj\Debug\net6.0\QUE 2- Print last number.pdb
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 2- Print last number\QUE 2- Print last number\obj\Debug\net6.0\QUE 2- Print last number.genruntimeconfig.cache
+C:\Users\Daniellah\Desktop\SCHOOL\BSC-IT-3.2\APPLICATION PROGRAMMING\TAKE AWAY CAT\QUE 2- Print last number\QUE 2- Print last number\obj\Debug\net6.0\ref\QUE 2- Print last number.dll
